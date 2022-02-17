@@ -16,9 +16,9 @@ It was exhibited and demonstrated in the [ITP Winter Show 2017](https://vimeo.co
 The theme and aim of this project was to create a fun, interactive, and memorable experience associated with wish-making through safe, flameless LED candles and animated shooting stars.
 
 # Roles
-Interaction design: Yeonhee Lee
-S/W & H/W implementation: Yeonhee Lee
-Graphic design: Hye Ryeong Shin
+- Interaction design: Yeonhee Lee
+- S/W & H/W implementation: Yeonhee Lee
+- Graphic design: Hye Ryeong Shin
 
 ## Special thanks to
 **Ted Kang** for the booth design & installment
